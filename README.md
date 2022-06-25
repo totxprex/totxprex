@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-Hi 👋 My name is Tolulope Mumuney
 =================================
 
 Software Engineer, Web Developer, UI/UX Designer
