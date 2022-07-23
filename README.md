@@ -8,6 +8,7 @@ I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, u
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [t-portfolio-exclusive.netlify.app](http://t-portfolio.netlify.app)
+* 🖥️  See my portfolio at [verticalglobaltech.com/blog](https://verticalglobaltech.com/blog)
 * ✉️  You can contact me at [totxprex@gmail.com](mailto:totxprex@gmail.com)
 * 🧠  I'm learning Amazon Cloud Services
 * 🤝  I'm open to collaborating on anything Coding!
