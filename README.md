@@ -11,7 +11,7 @@ I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, u
 * ✉️  You can contact me at [totxprex@gmail.com](mailto:totxprex@gmail.com)
 * 🧠  I'm learning Amazon Cloud Services
 * 🤝  I'm open to collaborating on anything Coding!
-* ⚡  I code everyday. I secretly love coding. Coding is my addiction.
+* ⚡  Coding is my life. I accept it, I love it, and I am so thankful for it.
 
 ### Skills
 
