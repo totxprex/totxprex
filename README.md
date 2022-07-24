@@ -7,7 +7,7 @@ Software Engineer, Web Developer, UI/UX Designer
 I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, ultra-skilled at implementing complex logic and creating advanced Front-End and Back-End Web Apps, Websites, and Games. You can find some of my numerous projects on my portfolio.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [t-portfolio-exclusive.netlify.app](http://t-portfolio.netlify.app)
+* 🖥️  See my portfolio at [T-Portfolio-Exclusive](https://t-portfolio-exclusive.netlify.app)
 * 🖥️  See my Blog at [verticalglobaltech.com/blog](https://verticalglobaltech.com/blog)
 * ✉️  You can contact me at [totxprex@gmail.com](mailto:totxprex@gmail.com)
 * 🧠  I'm learning Amazon Cloud Services
