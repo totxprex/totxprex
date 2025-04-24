@@ -1,7 +1,7 @@
 ### Hi there 👋
 =================================
 
-Software Engineer, Web Developer, UI/UX Designer
+Software Engineer
 ------------------------------------------------
 
 I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, ultra-skilled at implementing complex logic and creating advanced Front-End and Back-End Web Applications, Websites, and Mobile Applications. You can find some of my numerous projects on my portfolio.
