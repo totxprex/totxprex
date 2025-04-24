@@ -10,7 +10,6 @@ I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, u
 * 🖥️  See my portfolio at [T-Portfolio-Exclusive](https://t-portfolio-exclusive.netlify.app)
 * 🖥️  See my Blog on [Medium](https://medium.com/@totxprex)
 * ✉️  You can contact me at [totxprex@gmail.com](mailto:totxprex@gmail.com)
-* 🧠  I'm learning Amazon Cloud Services
 * 🤝  I'm open to collaborating on anything Coding!
 * ⚡  Coding is my life. I accept it, I love it, and I am so thankful for it.
 
