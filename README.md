@@ -1,17 +1,22 @@
 ### Hi there 👋
 =================================
 
-Software Engineer
-------------------------------------------------
+💻 Senior Full-Stack Engineer | AI & FinTech Specialist | Problem Solver
+I build scalable, high-performance applications that blend clean architecture, seamless user experience, and business impact.
 
-I am a professional Full-Stack Developer, Software Engineer, and UI/UX Design, ultra-skilled at implementing complex logic and creating advanced Front-End and Back-End Web Applications, Websites, and Mobile Applications. You can find some of my numerous projects on my portfolio.
+Core stack: JavaScript/TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [T-Portfolio-Exclusive](https://t-portfolio-exclusive.netlify.app)
-* 🖥️  See my Blog on [Medium](https://medium.com/@totxprex)
-* ✉️  You can contact me at [totxprex@gmail.com](mailto:totxprex@gmail.com)
-* 🤝  I'm open to collaborating on anything Coding!
-* ⚡  Coding is my life. I accept it, I love it, and I am so thankful for it.
+Mobile: React Native, Expo
+
+Cloud & DevOps: AWS, Docker, CI/CD
+
+Specialties: Real-time systems, AI/ML integration, fintech platforms, data-driven applications
+
+Advocate for clean code, TDD, and accessibility in every project
+
+Passionate about bridging design thinking with engineering for intuitive, impactful software
+
+🚀 Always learning. Always shipping. Always pushing boundaries.
 
 ### Skills
 
