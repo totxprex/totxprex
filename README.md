@@ -26,7 +26,10 @@ Skills
 
 <!-- State / Tooling -->
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expo-colored.svg" width="36" height="36" alt="Expo" /></a>
+
+<!-- Mobile -->
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/expo/000000" width="36" height="36" alt="Expo" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React Native" /></a>
 
 <!-- Databases -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -37,16 +40,13 @@ Skills
 <!-- Cloud & DevOps -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="GitHub Actions" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 </p>
 Socials
-<p align="left"> <a href="https://www.github.com/totxprex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/totxprex/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/tolulope-mumuney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://github.com/totxprex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/totxprex/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/tolulope-mumuney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
 Badges
 My GitHub Stats
 
-<a href="http://www.github.com/totxprex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=totxprex&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/totxprex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totxprex&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-<br /><br /><br /><br /><br /><br /><br />
+<!-- Overall stats --> <a href="https://github.com/totxprex"> <img src="https://github-readme-stats.vercel.app/api?username=totxprex&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true" /> </a> <!-- Streak --> <a href="https://github.com/totxprex"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=totxprex&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a> <!-- Top languages --> <a href="https://github.com/totxprex"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totxprex&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" /> </a>
