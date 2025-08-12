@@ -1,3 +1,5 @@
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
+
 Hi there 👋
 =================================
 
