@@ -37,5 +37,5 @@ Passionate about bridging design thinking with engineering for intuitive, impact
 ## 📊 Stats
 
 <a href="https://github.com/totxprex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totxprex&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&custom_title=Top%20Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totxprex&layout=compact" />
 </a>
